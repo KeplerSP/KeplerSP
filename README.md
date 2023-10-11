@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kepler Garcia</h1>
 <h3 align="center">A passionate Blockchain Developer. I specialize in Smart Contracts development, security, and efficiency.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keplersp&label=Profile%20views&color=0e75b6&style=flat" alt="keplersp" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://keplersp.github.io/](https://keplersp.github.io/)
 
 - 📫 How to reach me **Kepler28_sp@hotmail.com**
