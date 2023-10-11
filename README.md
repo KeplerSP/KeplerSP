@@ -1,59 +1,19 @@
-<div align="center">
-  <h1>Hello, everyone!</h1>
-  <p>Welcome to my GitHub profile 👋</p>
-</div>
+<h1 align="center">Hi 👋, I'm Kepler Garcia</h1>
+<h3 align="center">A passionate Blockchain Developer. I specialize in Smart Contracts development, security, and efficiency.</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=keplersp&label=Profile%20views&color=0e75b6&style=flat" alt="keplersp" /> </p>
 
-<div align="center">
-  <h2>👨‍💻 My Stack and Experience</h2>
-</div>
+- 👨‍💻 All of my projects are available at [https://keplersp.github.io/](https://keplersp.github.io/)
 
-<p>I've been working in IT for over ten years and had the opportunity to collaborate with various companies. My experience spans across quality control analysis for financial software and, more recently, developing decentralized apps and reviewing smart contracts in the blockchain space.</p>
+- 📫 How to reach me **Kepler28_sp@hotmail.com**
 
-<p>Some of the tools and technologies I frequently use include:</p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity" alt="Solidity" />
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js" alt="VueJS" />
-  <img src="https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=node.js" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/-Aseprite-05122A?style=flat" alt="Aseprite" />
-  <img src="https://img.shields.io/badge/-Foundry-05122A?style=flat" alt="Foundry" />
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keplersp&show_icons=true&locale=en&layout=compact" alt="keplersp" /></p>
 
-<div align="center">
-  <h2>📈 My GitHub Stats</h2>
-</div>
-
-<div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?theme=radical&username=magnetto90&show_icons=true&count_private=true" alt="Erik's GitHub stats" style="height: 195px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=radical&username=magnetto90&layout=compact&show_icons=true&count_private=true" alt="Erik's most used languages" style="height: 195px;"/>
-</div>
-
----
-<div align="center">
-  <h2>🏆 Competitions & Achievements</h2>
-</div>
-
-<p>I have participated in various competitions, earning POAPs and NFTs as a result of my achievements. Here are some of them:</p>
-
-<ul>
-  <li><a href="https://app.poap.xyz/token/5497285"><strong>Solidity Hacking Competition @ ETH LATAM - Buenos Aires 2022 🥇</strong> </a></li>
-  <li><a href="https://app.poap.xyz/token/5581181"><strong>Paradigm - CTF 2022</strong> </a></li>
-  <li><a href="https://app.poap.xyz/token/5553984"><strong>Secureum - a-MAZE-X at DeFi Security 101</strong> </a></li>
-  <li><a href=""><strong>Secureum - RACE 20 (9/202)</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2857?tab=overview"><strong>Secureum - RACE 18 (62/215)</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2541?tab=overview"><strong>Secureum - RACE 17 (88/230)</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:2134?tab=overview"><strong>Secureum - RACE 15</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1833?tab=overview"><strong>Secureum - RACE 13 (21/99)</strong></a></li>
-  <li><a href="https://rarible.com/token/polygon/0x5ff36bf09a7dd502ad3aedab418f1c5dfde59c2e:1664?tab=overview"><strong>Secureum - RACE 11</strong></a></li>
-  <li><a href="https://x.com/CodeHawks/status/1702645812679893225?s=20"><strong>CodeHawks - Sparkn contest 🥈</strong></a></li>
-</ul>
-
-<p>Collaborations</p>
-<ul>
-  <li><a href="https://github.com/transmissions11/solmate/pull/380"><strong>Fix edge case in SignedWadMath</strong></a></li>
-</ul>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keplersp&show_icons=true&locale=en" alt="keplersp" /></p>
